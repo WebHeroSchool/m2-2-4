@@ -1,8 +1,13 @@
-.footer{
+.footer {
   color: grey;
   background-color: pink;
   text-align: center;
 }
-.section{
+
+.section {
   background-color: green;
+}
+
+.title {
+  text-align: center; 	
 }
